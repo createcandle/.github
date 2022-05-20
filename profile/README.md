@@ -2,4 +2,4 @@
 
 Learn more about Candle at:
 
-https//www.candlesmarthome.com
+https://www.candlesmarthome.com
